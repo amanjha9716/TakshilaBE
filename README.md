@@ -329,3 +329,4 @@ TakshBE is a backend API built with ASP.NET Core and Entity Framework Core, desi
 
    Currently, authentication is handled via simple username and password verification. For enhanced security,I will consider implementing JWT-based authentication or integrating OAuth providers.
 
+Live Base URL if you want to test it:https://www.takshilabackend.somee.com/
