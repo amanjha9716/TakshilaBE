@@ -1,0 +1,6 @@
+@takshBE_HostAddress = http://localhost:5178
+
+GET {{takshBE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
