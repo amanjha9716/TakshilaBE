@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abhishek.jha\\OneDrive - Incedo Technology Solutions Ltd\\Desktop\\taksh\\takshBE\\takshBE\\takshBE.csproj": {}
+    "C:\\Users\\abhishek.jha\\OneDrive - Incedo Technology Solutions Ltd\\Desktop\\TakshilaBE\\TakshilaBE\\takshBE\\takshBE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abhishek.jha\\OneDrive - Incedo Technology Solutions Ltd\\Desktop\\taksh\\takshBE\\takshBE\\takshBE.csproj": {
+    "C:\\Users\\abhishek.jha\\OneDrive - Incedo Technology Solutions Ltd\\Desktop\\TakshilaBE\\TakshilaBE\\takshBE\\takshBE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhishek.jha\\OneDrive - Incedo Technology Solutions Ltd\\Desktop\\taksh\\takshBE\\takshBE\\takshBE.csproj",
+        "projectUniqueName": "C:\\Users\\abhishek.jha\\OneDrive - Incedo Technology Solutions Ltd\\Desktop\\TakshilaBE\\TakshilaBE\\takshBE\\takshBE.csproj",
         "projectName": "takshBE",
-        "projectPath": "C:\\Users\\abhishek.jha\\OneDrive - Incedo Technology Solutions Ltd\\Desktop\\taksh\\takshBE\\takshBE\\takshBE.csproj",
+        "projectPath": "C:\\Users\\abhishek.jha\\OneDrive - Incedo Technology Solutions Ltd\\Desktop\\TakshilaBE\\TakshilaBE\\takshBE\\takshBE.csproj",
         "packagesPath": "C:\\Users\\abhishek.jha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhishek.jha\\OneDrive - Incedo Technology Solutions Ltd\\Desktop\\taksh\\takshBE\\takshBE\\obj\\",
+        "outputPath": "C:\\Users\\abhishek.jha\\OneDrive - Incedo Technology Solutions Ltd\\Desktop\\TakshilaBE\\TakshilaBE\\takshBE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abhishek.jha\\AppData\\Roaming\\NuGet\\NuGet.Config",

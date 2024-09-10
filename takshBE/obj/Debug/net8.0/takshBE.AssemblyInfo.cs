@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("takshBE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dc61adb3c2457a5ea1b46b929efa94b98a73446")]
 [assembly: System.Reflection.AssemblyProductAttribute("takshBE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("takshBE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
